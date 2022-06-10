@@ -1,0 +1,15 @@
+{% extends "base.html.twig" %}
+
+{% block body %}
+  <div id="app">
+  Welcome to Receipe app. In this app, you can make a REST calls <br />
+  <ol>
+  <li> create a new recipe, <code>/api/recipes/add</code> </li> <br />
+  <li> to fetch all receipes, <code>/api/recipes/all</code> </li> <br />
+  <li> to fetch one of a receipes, <code>/api/recipes/find/{id}</code> </li> <br />
+  <li> to update or edit a receipe name, <code>/api/recipes/edit/{id}</code> </li> <br />
+  <li> to delete a receipe, <code>/api/recipes/remove/{id}</code> </li> <br />
+  </ol>	
+  </div>
+
+{% endblock %}
