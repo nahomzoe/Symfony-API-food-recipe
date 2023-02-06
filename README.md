@@ -55,6 +55,4 @@ the baseURL is: https://intense-journey-91807.herokuapp.com
 4.  [phpMyAdmin](https://www.phpmyadmin.net/)
 5.  [Postman](https://www.postman.com/)
 
-# Use for reference
 
-Use solely for reference material only
