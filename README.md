@@ -1,6 +1,6 @@
 # RecipeApp
 
-RecipeApp is a Symfony back-end API for storing and interacting with food recipes.
+RecipeApp is a Symfony back-end API for storing and interacting with food recipes
 
 ----
 
